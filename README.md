@@ -15,6 +15,3 @@ This project provides a way to find nearby food trucks in San Francisco based on
 
 ## Learning Goals
 I typically work on web APIs, but I chose to explore CLI development for this project to broaden my skill set.
-
-## License
-MIT License
